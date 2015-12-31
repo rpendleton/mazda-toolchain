@@ -88,7 +88,6 @@ be fairly easy to understand as long as you know what you're doing.
 
    ```shell
    # from linux-freescale-3.0.35
-   # include patch command here
    make ARCH=arm headers_install
    make ARCH=arm headers_check
    ```
